@@ -16,7 +16,7 @@
             <h2>BROTI SUNDER BAGCHI</h2>
             <p>Student of <em><strong>Chandigarh University</strong></em></p>
             <p>Bachelor in Computer Science Hons.,  2022</p>
-            <p><a href="mailto:brotisunder9@gmail.com"><em>brotisunder9@gmail.com</em></a> <a href="https://www.linkedin.com/in/broti-sunder-bagchi-aa46b623a/" target="_blank"><em>Linkedin profile</em></a></Link:atom></a></p>
+            <p><a href="mailto:brotisunder9@gmail.com"><em>brotisunder9@gmail.com</em></a> <a href="https://www.linkedin.com/in/broti-sunder-bagchi-aa46b623a/" target="_blank"><em>Linkedin profile</em></a></p>
         </td>
     </tr>
 </table><hr size="3" noshade>
